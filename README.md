@@ -30,3 +30,4 @@ Interested in software engineering, backend development, and building applicatio
 To become a Full-Stack Software Engineer and eventually build applications powered by AI.
 
 *Learn with intent. Build with purpose. Improve through practice.*
+
