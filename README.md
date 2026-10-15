@@ -1,33 +1,42 @@
 # Hey, I'm dxzqwee 👋
 
-💻 **Aspiring Full-Stack Software Engineer**
+**Full-Stack Developer in progress**
+Orenburg, Russia
 
-Interested in software engineering, backend development, and building applications that solve real problems.
+---
 
-### ⚙️ Technical Interests
+Focused on Python, backend logic, and clean problem-solving.
+Building a solid foundation before moving into web development
+and AI-powered applications.
 
-- Python and programming logic
-- Software design and problem-solving
-- Web development and backend systems
-- Automation and AI-powered applications
+I care about *why* code works, not just *how*.
 
-### 🧠 Engineering Approach
+---
 
-- Build a solid understanding of programming fundamentals
-- Break complex problems into smaller, manageable parts
-- Focus on readable, maintainable code
-- Turn knowledge into practical projects
+## ⚙️ Tech
 
-### 🛠️ Tools & Environment
+- **Languages:** Python
+- **Tools:** VS Code · Git · GitHub · Obsidian
+- **OS:** Windows 11
 
-- Python
-- Visual Studio Code
-- GitHub
-- Obsidian
+---
 
-### 🎯 Long-Term Goal
+## 🧠 Approach
 
-To become a Full-Stack Software Engineer and eventually build applications powered by AI.
+- Understand the *why*, not just the *how*
+- Break complex problems into small, clear steps
+- Prefer readable code over clever code
+- Build real things, not just tutorials
 
-*Learn with intent. Build with purpose. Improve through practice.*
+---
 
+## 🎯 What I'm Working Toward
+
+- Mastering Python fundamentals
+- Moving into backend (FastAPI, databases)
+- Building and shipping real projects
+- Eventually — AI-powered applications
+
+---
+
+*Learn with intent. Build with purpose. Improve through practice.* 🚀
